@@ -1,8 +1,8 @@
 # TUGAS 4 ASISTENSI PBO - Jumat, 11 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: `Johanna Serena Alim Nuryadi`
 
-NRP: `isi nrp disini`
+NRP: `06111840000106`
 
 ## Deskripsi Tugas
 
@@ -32,7 +32,10 @@ NRP: `isi nrp disini`
 **catatan** \
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
-masukkan screenshot output disini
+![Annotation 2019-10-18 011000](https://user-images.githubusercontent.com/56016417/67037029-f318bc00-f146-11e9-91ad-0e893cad2b9e.png)
+![Annotation 2019-10-18 011743](https://user-images.githubusercontent.com/56016417/67037030-f3b15280-f146-11e9-87e1-2ac0ae1220f2.png)
+![Annotation 2019-10-18 011830](https://user-images.githubusercontent.com/56016417/67037031-f3b15280-f146-11e9-852d-18aedf539536.png)
+![Annotation 2019-10-18 011907](https://user-images.githubusercontent.com/56016417/67037034-f449e900-f146-11e9-8abd-a4e4b5832887.png)
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
